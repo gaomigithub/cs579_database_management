@@ -15,8 +15,6 @@ Team3 members
 
 ==================================================================================
 
-**IMPORTANT**
-
 If you want to check/restore our DB on your local environment, there are tools you may need:
 1. PostgreSQL: https://www.postgresql.org/download/
 2. pgadmin v4: https://www.pgadmin.org/download/
