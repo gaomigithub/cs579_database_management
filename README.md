@@ -2,6 +2,7 @@
 CS579 Database Management, TEAM 3 project
 
 **IMPORTANT**
+
 Hello whoever reading this README,
 
 Here's TEAM3. We are glad to sent our 2020 Spring semester database course project files to you.
@@ -15,6 +16,7 @@ Team3 members
 ==================================================================================
 
 **IMPORTANT**
+
 If you want to check/restore our DB on your local environment, there are tools you may need:
 1. PostgreSQL: https://www.postgresql.org/download/
 2. pgadmin v4: https://www.pgadmin.org/download/
